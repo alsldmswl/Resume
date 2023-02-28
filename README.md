@@ -29,6 +29,21 @@ Github <http://github.com/alsldmswl>
  
   <img src = "https://user-images.githubusercontent.com/82255206/221759351-cc8183f6-db36-4bf0-a0ce-280248591a13.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759354-408c28ff-ae2a-4d69-8e80-ef7493add3f9.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759360-233d2cfc-5c2c-4598-af18-a369afdb9f6e.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759356-26db4571-f632-49a9-ae27-60b367cd04b8.png" width="170" height="360"/>  
   
+   **MoviePreviewAPP**
+  - Github <http://github.com/alsldmswl/ios_MoviePreviewApp>
+  - 원하는 영화를 검색하여 해당 영화의 간단한 설명과 프리뷰 영상을 볼 수 있는 앱 서비스입니다.
+  - 프로젝트 목적: URLSession을 이용한 HTTP 통신을 학습하기 위한 프로젝트입니다.
+  - 참여인원: 1명(ios)
+  - 사용언어: Swift
+  - 구현기능: 영화검색 기능 프리뷰 영상기능
+
+  <img src = "https://user-images.githubusercontent.com/82255206/221759351-cc8183f6-db36-4bf0-a0ce-280248591a13.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759354-408c28ff-ae2a-4d69-8e80-ef7493add3f9.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759360-233d2cfc-5c2c-4598-af18-a369afdb9f6e.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759356-26db4571-f632-49a9-ae27-60b367cd04b8.png" width="170" height="360"/>  
+  
+
+
+  
+  
+  
   
   
   
