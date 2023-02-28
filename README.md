@@ -25,11 +25,9 @@ Github <http://github.com/alsldmswl>
   - 프로젝트 목적: 입력한 데이터를 저장하고 로드할 수 있는 CoreData를 학습하기 위한 프로젝트입니다.
   - 참여인원: 1명(ios)
   - 사용언어: Swift
-  - 구현기능: 리스트 작성, 수정, 저장, 삭제, 우선순위 설정 기능  
-  <img src = "https://user-images.githubusercontent.com/82255206/221414841-3ece495e-31da-49dd-87d4-3710591d4006.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221415353-d25745e0-d7bb-4c77-b29d-8fb443e70f5a.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221424686-6fc8a9e0-792b-4145-9cc5-4709f4ffd22c.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221415653-d2bbc9dd-d926-4814-94db-14969537f814.png" width="170" height="360"/>  
+  - 구현기능: 리스트 작성, 수정, 저장, 삭제, 우선순위 설정 기능    
+  <img src = "https://user-images.githubusercontent.com/82255206/221759351-cc8183f6-db36-4bf0-a0ce-280248591a13.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759354-408c28ff-ae2a-4d69-8e80-ef7493add3f9.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759360-233d2cfc-5c2c-4598-af18-a369afdb9f6e.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759356-26db4571-f632-49a9-ae27-60b367cd04b8.png" width="170" height="360"/>  
   
   
- 
-
   
   
