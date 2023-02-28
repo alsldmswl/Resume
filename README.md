@@ -18,13 +18,15 @@ Github <http://github.com/alsldmswl>
     춘천 유봉여자고등학교 졸업
 ---
 * 프로젝트 경험
-  - **TodoListAPP**
+
+  **TodoListAPP**
   - Github <http://github.com/alsldmswl/ios_TodoApp>
   - TodoList를 작성하고 우선순의를 선택하여 저장, 수정, 삭제할 수 있는 앱 서비스 입니다.
   - 프로젝트 목적: 입력한 데이터를 저장하고 로드할 수 있는 CoreData를 학습하기 위한 프로젝트입니다.
   - 참여인원: 1명(ios)
   - 사용언어: Swift
   - 구현기능: 리스트 작성, 수정, 저장, 삭제, 우선순위 설정 기능
+  
  
 
   
