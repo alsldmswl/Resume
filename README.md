@@ -27,7 +27,8 @@ Github <http://github.com/alsldmswl>
   - 사용언어: Swift
   - 구현기능: 리스트 작성, 수정, 저장, 삭제, 우선순위 설정 기능  
  
-  <img src = "https://user-images.githubusercontent.com/82255206/221759351-cc8183f6-db36-4bf0-a0ce-280248591a13.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759354-408c28ff-ae2a-4d69-8e80-ef7493add3f9.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759360-233d2cfc-5c2c-4598-af18-a369afdb9f6e.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759356-26db4571-f632-49a9-ae27-60b367cd04b8.png" width="170" height="360"/>  
+  <img src = "https://user-images.githubusercontent.com/82255206/221759351-cc8183f6-db36-4bf0-a0ce-280248591a13.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759354-408c28ff-ae2a-4d69-8e80-ef7493add3f9.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759360-233d2cfc-5c2c-4598-af18-a369afdb9f6e.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759356-26db4571-f632-49a9-ae27-60b367cd04b8.png" width="170" height="360"/>    
+  
   
   
    **MoviePreviewAPP**
