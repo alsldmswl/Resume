@@ -39,7 +39,7 @@ Github <http://github.com/alsldmswl>
   - 사용언어: Swift
   - 구현기능: 영화검색 기능, 프리뷰 영상기능
 
-  <img src = "https://user-images.githubusercontent.com/82255206/221760751-823b3f3c-a886-411a-8556-569ecfee76e8.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221760757-fee37ad5-6156-4d2e-891c-b6fdd357914a.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221760762-3a7cdcac-a20d-4ab7-96ba-98d2639b7f39.png" width="170" height="360"/> 
+  <img src = "https://user-images.githubusercontent.com/82255206/221760751-823b3f3c-a886-411a-8556-569ecfee76e8.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221760757-fee37ad5-6156-4d2e-891c-b6fdd357914a.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221764429-fdcdaa44-6f45-432f-8529-f87bd585cb2c.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221760762-3a7cdcac-a20d-4ab7-96ba-98d2639b7f39.png" width="170" height="360"/> 
   
    ## **EdgeMap**
   - **Github** - <http://github.com/alsldmswl/ios_EdgeMapApp>
@@ -50,6 +50,5 @@ Github <http://github.com/alsldmswl>
   - 사용언어: Swift
   - 구현기능: 내 위치 확인 기능, 추천 산책로 표시 기능, 지역 검색 기능, 최적 경로 랜더링 기능, 맛집, 관광지, 숙박 시설정보 마커 표시 기능
 
-  
   
   
