@@ -37,13 +37,7 @@ Github <http://github.com/alsldmswl>
   - 사용언어: Swift
   - 구현기능: 영화검색 기능 프리뷰 영상기능
 
-  <img src = "https://user-images.githubusercontent.com/82255206/221759351-cc8183f6-db36-4bf0-a0ce-280248591a13.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759354-408c28ff-ae2a-4d69-8e80-ef7493add3f9.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759360-233d2cfc-5c2c-4598-af18-a369afdb9f6e.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221759356-26db4571-f632-49a9-ae27-60b367cd04b8.png" width="170" height="360"/>  
-  
-
-
-  
-  
-  
+  <img src = "https://user-images.githubusercontent.com/82255206/221760751-823b3f3c-a886-411a-8556-569ecfee76e8.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221760757-fee37ad5-6156-4d2e-891c-b6fdd357914a.png" width="170" height="360"/> <img src="https://user-images.githubusercontent.com/82255206/221760762-3a7cdcac-a20d-4ab7-96ba-98d2639b7f39.png" width="170" height="360"/> 
   
   
   
