@@ -19,7 +19,7 @@ Github <http://github.com/alsldmswl>
 ---
 * 프로젝트 경험
 
-  ##**TodoListAPP**
+  ## **TodoListAPP**
   - Github <http://github.com/alsldmswl/ios_TodoApp>
   - TodoList를 작성하고 우선순의를 선택하여 저장, 수정, 삭제할 수 있는 앱 서비스 입니다.
   - 프로젝트 목적: 입력한 데이터를 저장하고 로드할 수 있는 CoreData를 학습하기 위한 프로젝트입니다.
@@ -31,7 +31,7 @@ Github <http://github.com/alsldmswl>
   
   
   
-   ##**MoviePreviewAPP**
+   ## **MoviePreviewAPP**
   - Github <http://github.com/alsldmswl/ios_MoviePreviewApp>
   - 원하는 영화를 검색하여 해당 영화의 간단한 설명과 프리뷰 영상을 볼 수 있는 앱 서비스입니다.
   - 프로젝트 목적: URLSession을 이용한 HTTP 통신을 학습하기 위한 프로젝트입니다.
